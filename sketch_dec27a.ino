@@ -1,3 +1,7 @@
+// This is code for the detecting movement of the fingers using flex sensors and gives the output with 8 channel voice module with a speaker.
+// This code belongs to Gubbala Sri Ganesh
+// 21BEC7184 - Vellore Institute of Technology, Andhra Pradesh
+
 #define fs1 A0
 #define fs2 A1
 #define fs3 A2
